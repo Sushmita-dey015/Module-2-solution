@@ -1,0 +1,113 @@
+*{
+  margin:auto;
+    padding: 0;
+}
+.container{
+    width:90%;
+    height:800px;
+    
+}
+h2{
+    text-align: center;
+    width: 50%;
+    font-size:21px;
+    font-weight: bold;
+    margin-top: 110px;
+    
+}
+.box-1{
+    width:30%;
+    height:180px;
+    float: left;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 70px;
+    border: 3px solid black;
+    background-color: darkgray;
+}
+    
+.box-1 h5{
+    box-sizing: border-box;
+    border: 2px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4px;
+    margin-left: 102px;
+    width: 39%;
+    transform: translate(90%,-44%);
+    margin-top: 6px;
+    background-color: lightpink;
+}
+.box-1 p{
+    text-decoration: inherit;
+    text-align:inherit;
+    padding: 7px;
+    width: 77%;
+    font-weight: bold;
+    
+}
+.box-2{
+    width:30%;
+    height:180px;
+    background-color: darkgray;
+    float: left;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 70px;
+    border: 3px solid black;
+}
+.box-2 h5{
+    box-sizing: border-box;
+    border: 2px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4px;
+    margin-left: 105px;
+    width: 39%;
+    transform: translate(88%,-46%);
+    margin-top: 6px;
+    background-color:brown;
+    color: white;
+    
+}
+.box-2 p{
+    text-decoration: inherit;
+    text-align:inherit;
+    padding: 7px;
+    width: 77%;
+    font-weight: bold;
+}
+.box-3{
+    width:30%;
+    height:180px;
+    background-color: darkgray;
+    float:left;
+    padding: 5px;
+    margin-top: 70px;
+    border: 3px solid black;
+    
+}
+.box-3 h5{
+    box-sizing: border-box;
+    border: 2px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4px;
+    margin-left: 105px;
+    width: 39%;
+    transform: translate(88%,-34%);
+    margin-top: 2px;
+    background-color:lightgoldenrodyellow;
+    color: black;
+    
+}
+.box-3 p{
+    text-decoration: inherit;
+    text-align:inherit;
+    padding: 7px;
+    width: 77%;
+    font-weight: bold;
+}
